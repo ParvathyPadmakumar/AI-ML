@@ -37,7 +37,7 @@ This data is used to build **directed graphs** (`networkx`) representing prerequ
 
 ---
 
-## 6. Application (Streamlit UI)
+## 4. Application (Streamlit UI)
 
 ### Training Mode
 - Add new topics and retrain **SVM model**.  
